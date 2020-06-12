@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/Rl1"
+    android:padding="10dp"
+    android:background="#e0e0e0"
+    tools:context="com.wordpress.helpmevishal.helpmevishalapp.Request">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="'REQUEST CONTENT'"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/request_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app features content like college lab practical work, class notes, assignments, ebooks, project work and many more other stuffs. So you can request us for any content you want to be posted here. Below are the ways you can contact us: "
+        android:textSize="13dp"
+        android:gravity="left"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/request_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/appfeatures" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/appfeatures"
+        android:id="@+id/linearLayout">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/imageView4"
+            android:src="@drawable/ic_whatsapp"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/l_whatsapp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout2">
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/imageView5"
+        android:src="@drawable/ic_mail"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignLeft="@+id/request_content"
+        android:layout_alignStart="@+id/request_content"
+        android:id="@+id/l_mail">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Mail us"
+            android:id="@+id/textView16"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="HelpMeVishal@gmail.com"
+            android:textStyle="bold"
+            android:id="@+id/textView17"
+            android:layout_below="@+id/textView16"
+            android:layout_alignLeft="@+id/textView16"
+            android:layout_alignStart="@+id/textView16" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView6"
+        android:src="@drawable/ic_insta"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="7dp"
+        android:layout_below="@+id/imageView5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignTop="@+id/imageView6"
+        android:layout_alignLeft="@+id/l_mail"
+        android:layout_alignStart="@+id/l_mail">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="DM us"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:id="@+id/textView18"
+            android:layout_alignTop="@+id/imageView6"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="\@Kushwahz"
+            android:textStyle="bold"
+            android:id="@+id/textView19"
+            android:layout_below="@+id/textView18"
+            android:layout_alignLeft="@+id/linearLayout3"
+            android:layout_alignStart="@+id/linearLayout3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/l_whatsapp"
+        android:layout_alignTop="@+id/linearLayout"
+        android:layout_alignLeft="@+id/l_mail"
+        android:layout_alignStart="@+id/l_mail">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="WhatsApp us"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:id="@+id/textView14" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="+91-7696324435"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:id="@+id/textView15" />
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/r_adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+</RelativeLayout>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_efe04bb887be34c9d6cd2d9e095fbffe416b234f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_b267667cc0b708b04aa5b71ae914f91dd7deb2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_3362dfeb7cb6aad8c0e6f469b48370daf96397cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_971f5b0c726e6848547312e908b5bfdb42efbc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_be6712b69205a568b7fc7ac8b658ddf4006d56f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_bca5f39e821640ca496fedf18af8acf80458e14d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_6c079d3a0622cfe75fcf384b353bd7e3de6d955a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_c57ecc0f01eed412d5a5fbb130fa8b1b33fc35d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_f8420cfd5ded81d2c8252a6fa6e25baec6a0ef80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kushwahz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_e70edc49a8fdcc43a04f699b893917d6f2b64fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_151cd172d6b87d7c22b8ea5c06f394fb62cf0ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_24ed558e6e063aa20d497c97fd644515444cbc69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_24c6096247d7fa2a309dd46c42614ff5fdcab067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_9b9b933815de309f260c26c46cec4db7ac14ebb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_eee51b86f8181e50b07fa5534d975ee80a5a4bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_e42ad58ccc5e047561747feb8af14f7b930fac18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_3e08af8064e83c0b103412545d6eb790b1b6c03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_c01b306fd577c692892152648b3bfabd0c63709c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_cd7c97e5836cfcf551404cb1d146d78dc292ebdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="S:\My Projects\HelpMeVishal - Wordpress\HelpMeVishalApp\HelpMeVishalBlogApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_d0bd63e97ca8b21334198ea7ff0fde314a32c14c.jar" />
+    </item>
+
+</items>

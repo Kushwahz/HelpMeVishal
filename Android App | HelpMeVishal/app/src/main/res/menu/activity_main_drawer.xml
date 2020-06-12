@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_news" android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="News Feeds" />
+        <item android:id="@+id/nav_lab" android:icon="@drawable/ic_desktop_windows_black_24dp"
+            android:title="Lab Work" />
+        <item android:id="@+id/nav_notes" android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="Class Notes" />
+        <item android:id="@+id/nav_downloads" android:icon="@drawable/ic_get_app_black_24dp"
+            android:title="Downloads" />
+    </group>
+    <item android:title="Activities">
+        <menu>
+            <item android:id="@+id/nav_request" android:icon="@drawable/ic_description_black_24dp"
+                android:title="Request Content" />
+            <item android:id="@+id/nav_cgcnews" android:icon="@drawable/ic_dvr_black_24dp"
+                android:title="College News" />
+            <item android:id="@+id/nav_attedance" android:icon="@drawable/ic_assignment_turned_in_black_24dp"
+                android:title="Class Attendance" />
+            <item android:id="@+id/nav_results" android:icon="@drawable/ic_poll_black_24dp"
+                android:title="PTU Results" />
+            <item android:id="@+id/nav_web" android:icon="@drawable/ic_web_black_24dp"
+                android:title="Visit Website" />
+
+        </menu>
+    </item>
+
+    <item android:title="Share">
+        <menu>
+            <item android:id="@+id/nav_whatsapp" android:icon="@drawable/ic_whatsapps"
+                android:title="WhatsApp" />
+            <item android:id="@+id/nav_facebook" android:icon="@drawable/ic_facebook"
+                android:title="Facebook" />
+            <item android:id="@+id/nav_about" android:icon="@drawable/ic_info_black_24dp"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>
